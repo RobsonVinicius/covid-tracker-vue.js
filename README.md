@@ -40,3 +40,9 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+## Demo
+
+covid-tracker-vuejs.netlify.app
