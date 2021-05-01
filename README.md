@@ -5,6 +5,7 @@ Os números apresentados podem ser consultados de maneira global ou exibido por 
 
 
 <br>
+
 ## Tecnologias utilizadas
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
