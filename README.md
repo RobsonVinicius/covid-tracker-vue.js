@@ -4,7 +4,7 @@ Projeto criado em Vue.js de um Rastreador de Coronavírus que apresenta os dados
 Os números apresentados podem ser consultados de maneira global ou exibido por países.
 
 
-<br><br>
+<br>
 ## Tecnologias utilizadas
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
@@ -39,7 +39,7 @@ yarn build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
+<br>
 
 ## Demo
 
