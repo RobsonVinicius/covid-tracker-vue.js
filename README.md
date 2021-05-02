@@ -10,7 +10,7 @@ Os números apresentados podem ser consultados de maneira global ou exibido por 
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
 Vue | The Progressive JavaScript Framework | 3.0.0 | https://vuejs.org/
-Tailwind | Rapidly build modern websites without ever leaving your HTML | 4.11.0 | https://tailwindcss.com/ <br> https://github.com/tailwindlabs/tailwindcss-forms
+Tailwind | Rapidly build modern websites without ever leaving your HTML | 4.11.0 | https://tailwindcss.com/ <br> Tailwindcss/forms: https://github.com/tailwindlabs/tailwindcss-forms
 Moment | A JavaScript date library for parsing, validating, manipulating, and formatting dates | 2.29.1 | https://momentjs.com/
 
 <br>
