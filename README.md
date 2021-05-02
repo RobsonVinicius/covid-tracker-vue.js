@@ -15,7 +15,7 @@ Moment | A JavaScript date library for parsing, validating, manipulating, and fo
 
 <br>
 
-## API
+## API utilizada
 
 https://covid19api.com
 
