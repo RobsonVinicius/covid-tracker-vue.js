@@ -3,7 +3,6 @@
 Projeto criado em Vue.js de um Rastreador de Coronavírus que apresenta os dados diários de casos e mortes.
 Os números apresentados podem ser consultados de maneira global ou exibido por países.
 
-
 <br>
 
 ## Tecnologias utilizadas
