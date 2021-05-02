@@ -1,5 +1,5 @@
 <template>
-  <select @change="onChange()" v-model="selected" class="form-select mt-10 block w-full border p-3 rounded">
+  <select @change="onChange()" v-model="selected" class="form-select mt-10 block w-full border-gray-300 p-3 rounded bg-gray-100">
     <option value="0">Selecione o país</option>
     <option v-for="country in countries" :value="country.ID">
       {{ country.Country }}
