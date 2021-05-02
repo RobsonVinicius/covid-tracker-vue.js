@@ -3,7 +3,7 @@
     <DataTitle :text="title" :dataDate="dataDate" />
     <DataBoxes :stats="stats" />
     <CountrySelect @get-country="getCountryData" :countries="countries" />
-    <button @click="clearCountryData" v-if="stats.Country" class="bg-green-700 text-white rounded p-3 mt-10 focus:outline-none hover:bg-green-600">
+    <button @click="clearCountryData" v-if="stats.Country" class="bg-green-500 text-white rounded p-3 mt-10 focus:outline-none hover:bg-green-600">
       Voltar para Global
     </button>
 
