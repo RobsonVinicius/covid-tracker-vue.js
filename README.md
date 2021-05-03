@@ -5,6 +5,8 @@ Os números apresentados podem ser consultados de maneira global ou exibido por 
 
 <br>
 
+![Tux, the Linux mascot](src/assets/Demo-Covid-Track.gif)
+
 ## Tecnologias utilizadas
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
